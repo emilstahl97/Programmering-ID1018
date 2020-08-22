@@ -1,7 +1,7 @@
 # Programmering-ID1018
 
-Content and learning outcomes
-Course contents *
+## Content and learning outcomes
+### Course contents
 
 Fundamental constructs:
 
@@ -39,7 +39,7 @@ Exceptions:
 
 Exception handling
 
-Intended learning outcomes *
+### Intended learning outcomes
 
 Upon completion of the course the student is able to:
 
@@ -51,7 +51,7 @@ Develop code that responds to exceptional situations during execution.
 Justify the philosophy of object-oriented design and the concepts of encapsulation, abstraction, inheritance, and polymorphism.
 Design, implement, test, and debug simple programs in an object-oriented programming language.
 
-Course Disposition
+### Course Disposition
 
 The course runs over a KTH period. Teaching forms that are used:
 
